@@ -8,6 +8,10 @@
     ```js
         console.log('코드를 입력해보세요!');
     ```
+  
+    ```js
+        console.log('코드를 입력해보세요!');
+    ```
     <Description>
     ### 설명을 입력해 보세요!
       hi
